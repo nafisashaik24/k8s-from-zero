@@ -11,6 +11,8 @@ spec:
     metadata:
       labels:
         app: web
+        team: orders
+        tier: frontend
     spec:
       containers:
         - name: nginx
