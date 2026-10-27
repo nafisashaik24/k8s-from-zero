@@ -27,8 +27,8 @@ Every lesson follows the same structure:
 | 01 | [Pods](./01-pods/) | The smallest unit in Kubernetes | ✅ |
 | 02 | [Deployments](./02-deployments/) | Self-healing, scaling, rolling updates, rollbacks | ✅ |
 | 03 | [Services](./03-services/) | One stable address for changing Pods | ✅ |
-| 04 | Namespaces & Labels | Organizing a cluster | 🚧 |
-| 05 | ConfigMaps & Secrets | Settings and passwords outside your code | ⏳ |
+| 04 | [Namespaces & Labels](./04-namespaces-labels/) | Organizing a cluster | ✅ |
+| 05 | ConfigMaps & Secrets | Settings and passwords outside your code | 🚧 |
 | 06 | Resources & Probes | CPU/memory limits and health checks | ⏳ |
 | 07 | Storage | Keeping data when Pods restart | ⏳ |
 | 08 | StatefulSets | Running databases | ⏳ |
