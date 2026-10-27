@@ -217,4 +217,4 @@ kubectl delete -f deployment.yaml
 - **ClusterIP** is internal only; NodePort, LoadBalancer, and Ingress expose apps outside
 
 ## Next
-👉 04 - Namespaces & Labels
+👉 [04 - Namespaces & Labels](../04-namespaces-labels/)

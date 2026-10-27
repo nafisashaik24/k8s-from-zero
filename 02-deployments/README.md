@@ -219,4 +219,4 @@ This deletes the Deployment **and** its ReplicaSets and Pods.
 - Keep the **YAML file as the source of truth** to avoid drift
 
 ## Next
-👉 03 - Services: how to give these changing Pods one stable address
+👉 [03 - Services](../03-services/): how to give these changing Pods one stable address
